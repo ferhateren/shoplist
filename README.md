@@ -10,4 +10,4 @@ Making typescript with tailwind and react typescript.
 
 ### For Later
 
-I ll add tests for project
+I ll add tests for project# shoplist
